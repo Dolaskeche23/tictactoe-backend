@@ -1,7 +1,4 @@
 ﻿# tictactoe-backend
-Here is a sample `README.md` for your Tic-Tac-Toe backend project:
-
----
 
 # Tic-Tac-Toe Backend
 
