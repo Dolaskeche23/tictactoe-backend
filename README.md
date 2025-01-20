@@ -1,4 +1,4 @@
-﻿# tictactoe-backend
+﻿# Tic-Tac-Toe-Backend
 
 This is a backend server for a Tic-Tac-Toe game built using **Express.js**, **MongoDB**, and **JWT authentication**. The backend allows users to register, login, play games, and manage rematches with other players.
 
